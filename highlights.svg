@@ -1,0 +1,30 @@
+﻿<svg width="840" height="104" viewBox="0 0 840 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="0.75" y="0.75" width="196.5" height="102.5" rx="12" fill="#F0F9FF" stroke="#BFE3FC" stroke-width="1.5"/>
+    <rect x="16" y="14" width="36" height="3.5" rx="1.75" fill="#28361F"/>
+    <text x="16" y="36" fill="#596115" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">EDUCATION</text>
+    <text x="16" y="61" fill="#28361F" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="800">S-1 Statistika</text>
+    <text x="16" y="83" fill="#4A583E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="500">Universitas Padjadjaran</text>
+  </g>
+  <g transform="translate(214,0)">
+    <rect x="0.75" y="0.75" width="196.5" height="102.5" rx="12" fill="#F0F9FF" stroke="#BFE3FC" stroke-width="1.5"/>
+    <rect x="16" y="14" width="36" height="3.5" rx="1.75" fill="#596115"/>
+    <text x="16" y="36" fill="#596115" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">CORE STACK</text>
+    <text x="16" y="61" fill="#28361F" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="800">R · Python · SQL</text>
+    <text x="16" y="83" fill="#4A583E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="500">Excel · EDA · Modeling</text>
+  </g>
+  <g transform="translate(428,0)">
+    <rect x="0.75" y="0.75" width="196.5" height="102.5" rx="12" fill="#F0F9FF" stroke="#BFE3FC" stroke-width="1.5"/>
+    <rect x="16" y="14" width="36" height="3.5" rx="1.75" fill="#ACAD2B"/>
+    <text x="16" y="36" fill="#596115" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">LEADERSHIP</text>
+    <text x="16" y="61" fill="#28361F" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="800">Ketua BE Himasta</text>
+    <text x="16" y="83" fill="#4A583E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="500">121 Fungsionaris · Unpad</text>
+  </g>
+  <g transform="translate(642,0)">
+    <rect x="0.75" y="0.75" width="196.5" height="102.5" rx="12" fill="#F0F9FF" stroke="#BFE3FC" stroke-width="1.5"/>
+    <rect x="16" y="14" width="36" height="3.5" rx="1.75" fill="#28361F"/>
+    <text x="16" y="36" fill="#596115" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">RESEARCH &amp; AWARD</text>
+    <text x="16" y="61" fill="#28361F" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="800">X Control Chart</text>
+    <text x="16" y="83" fill="#4A583E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="500">Putra Himasta Intelegensia</text>
+  </g>
+</svg>
