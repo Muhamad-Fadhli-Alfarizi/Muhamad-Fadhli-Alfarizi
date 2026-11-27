@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:28361f,65:596115,100:acad2b&height=135&text=Muhamad%20Fadhli%20Alfarizi&fontSize=34&fontColor=f0f9ff&fontAlignY=42&desc=Statistics%20Undergraduate%20%E2%80%A2%20Data%20Analysis%20%26%20Statistical%20Modeling&descAlignY=68&descSize=14&descColor=bfe3fc" width="100%" alt="Muhamad Fadhli Alfarizi" />
+  <img src="./banner.svg" width="100%" alt="Muhamad Fadhli Alfarizi" />
 </div>
 
 <p align="center">
@@ -22,8 +22,8 @@ Mahasiswa **S-1 Statistika di Universitas Padjadjaran (Unpad)** yang berfokus pa
 
 | Kategori | Tools |
 | :--- | :--- |
-| **Statistical & Data Analysis** | [https://img.shields.io/badge/R-28361F?style=flat-square&logo=r&logoColor=BFE3FC] [https://img.shields.io/badge/Python-28361F?style=flat-square&logo=python&logoColor=ACAD2B] [https://img.shields.io/badge/SQL-596115?style=flat-square&logo=postgresql&logoColor=F0F9FF] [https://img.shields.io/badge/Microsoft%20Excel-596115?style=flat-square&logo=microsoftexcel&logoColor=F0F9FF] |
-| **Environment & Version Control** | [https://img.shields.io/badge/RStudio-28361F?style=flat-square&logo=rstudio&logoColor=BFE3FC] [https://img.shields.io/badge/Jupyter-596115?style=flat-square&logo=jupyter&logoColor=ACAD2B] [https://img.shields.io/badge/Git-28361F?style=flat-square&logo=git&logoColor=ACAD2B] [https://img.shields.io/badge/GitHub-28361F?style=flat-square&logo=github&logoColor=F0F9FF] |
+| **Statistical & Data Analysis** | <img src="https://img.shields.io/badge/R-28361F?style=flat-square&logo=r&logoColor=BFE3FC" alt="R" /> <img src="https://img.shields.io/badge/Python-28361F?style=flat-square&logo=python&logoColor=ACAD2B" alt="Python" /> <img src="https://img.shields.io/badge/SQL-596115?style=flat-square&logo=postgresql&logoColor=F0F9FF" alt="SQL" /> <img src="https://img.shields.io/badge/Microsoft%20Excel-596115?style=flat-square&logo=microsoftexcel&logoColor=F0F9FF" alt="Excel" /> |
+| **Environment & Version Control** | <img src="https://img.shields.io/badge/RStudio-28361F?style=flat-square&logo=rstudio&logoColor=BFE3FC" alt="RStudio" /> <img src="https://img.shields.io/badge/Jupyter-596115?style=flat-square&logo=jupyter&logoColor=ACAD2B" alt="Jupyter" /> <img src="https://img.shields.io/badge/Git-28361F?style=flat-square&logo=git&logoColor=ACAD2B" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-28361F?style=flat-square&logo=github&logoColor=F0F9FF" alt="GitHub" /> |
 
 ## Selected Projects
 
